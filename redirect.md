@@ -1,0 +1,1 @@
+https://login.microsoftonline.com/common/oauth2/nativeclient?code=M.R3_BAY.59849e65-1bb3-8fe5-0cf2-69fd2aaa9218
